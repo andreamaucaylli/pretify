@@ -1,0 +1,71 @@
+*{
+	font-family: 'Oswald';
+}
+
+header{
+	padding: 20px;
+	color: white;
+	text-align: center;
+}
+
+header a{
+	margin: 15px;
+	text-decoration: none;
+	color: black;
+}
+
+h3{
+	margin: 20px;
+	color:purple;
+	text-align: center;
+}
+
+.name{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+	height: 300px;
+	padding-top: 100px;
+	text-align: center;
+}
+
+.logo{
+	width: 20%;
+}
+
+.about{
+	background-image: url(../images/tile1.png);
+	background-repeat: repeat;
+	padding: 70px;
+}
+
+.profile{
+	border: 1px solid black;
+	padding: 5px;
+	width: 90%;
+}
+
+.fav{
+	padding: 50px;
+	text-align: center;
+}
+
+footer{
+	background-image: url(../images/tile2.png);
+	background-repeat: repeat;
+	padding: 50px;
+}
+
+.sns{
+	width: 30%;
+}
+
+.cat{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	border: 1px solid purple;
+	margin: 10px;
+
+}
